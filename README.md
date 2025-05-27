@@ -27,4 +27,4 @@ This is a test-based challenge, similar to many we've done before, but here's th
 
 5. `firstItemIsNumber`: takes in an array as a parameter and returns a boolean indicating whether or not the first item in the array is a number.
 
-6. `secondCharOThirdString`: takes in an array as a parameter and returns the second character in the third item in the array. We'll assume that that third item is a string for now, but a good function would check that's true! (In the same way the previous question checked if it's a number, if you did it the easy way.)
+6. `secondCharOfThirdString`: takes in an array as a parameter and returns the second character in the third item in the array. We'll assume that that third item is a string for now, but a good function would check that's true! (In the same way the previous question checked if it's a number, if you did it the easy way.)
